@@ -1,0 +1,88 @@
+.body {
+    margin: 0px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.name-container {
+    width: 1280px;
+    height: 310px;
+    background-color: green;
+    column-count: 2;
+    margin: 0px;
+}
+.img {
+    width: 300px;
+    height: 300px;
+    padding-left: 30px;
+}
+.h1-name {
+    margin-left: 50px;
+    margin-top: 50px;
+}
+.p-name {
+    padding-left: 100px;
+    padding-top: 100px;
+    font-size: x-large;
+}
+.about-me-container {
+    margin: 0px;
+    width: 1280px;
+    height: 610px;
+    background-color: #174e85;
+}
+.about-h3 {
+    margin: 0px;
+    padding-left: 50px;
+    padding-top: 50px;
+}
+.hobby {
+    column-count: 2;
+}
+.bmx {
+    width: 430px;
+    height: 230px;
+    padding-left: 50px;
+    padding-bottom: 20px;
+    margin: 0px;
+}
+.hobby-block {
+    margin-left: 100px;
+    padding-top: 50px;
+}
+.education {
+    margin-left: 100px;
+    padding-top: 50px;
+    column-count: 2;
+}
+.p-education {
+    margin-left: 100px;
+    padding-top: 50px;
+}
+.bmx-p {
+    padding-left: 30px;
+    padding-top: 30px;
+}
+.contact-container {
+    margin: 0px;
+    width: 1280px;
+    height: 300px;
+    background-color: green;
+}
+.inst {
+    column-count: 1;
+    padding-left: 100px;
+}
+.inst-img {
+    width: 50px;
+    height: 50px;
+}
+.contact-h1 {
+    margin: 0px;
+    padding-left: 50px;
+}
+.tg-img {
+    width: 50px;
+    height: 50px;
+}
+.tg {
+    padding-left: 100px;
+}

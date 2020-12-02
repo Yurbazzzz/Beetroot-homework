@@ -1,0 +1,33 @@
+.body {
+    height: 250px;
+    width: 800px;
+}
+.h1 {
+    background-color: #a52a2a;
+    color: white;
+    font-size: 20px;
+    text-align: center;
+    width: 760px;
+}
+.div {
+    background-color:black;
+    color: white;
+    font-size: 20px;
+    text-align: center;
+    width: 760px;
+}
+.img-div {
+    padding-left: 180px;
+}
+.p {
+    width: 760px;
+    font-size: 18px;
+}
+.img {
+    border: black;
+    border-radius: 5px;
+    border-style: dashed;
+}
+.span-style {
+    font-style: italic;
+}
