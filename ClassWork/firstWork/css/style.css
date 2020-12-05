@@ -25,7 +25,7 @@
 .div-h3 {
     font-size: 24px;
     color: #FFAE00;
-    padding-bottom: 71px ;
+    padding-bottom: 30px ;
 }
 
 .left-div-p {
@@ -48,21 +48,27 @@
     height: 383px;
     margin-left: 68px;
     margin-top: 40px;
+    margin-bottom: 100px;
 }
 
 .line { 
-    width: 465px;
-    height: 40px;
-    border-bottom: 10px;
+    width: 462px;
+    height: 35px;
+    border-top: 0px;
+    border-left: 0px;
+    border-right: 0px;
     border-color: #FFAE00;
+    border-style: solid;
+    font-family: Raleway;
+    margin-bottom: 20px;
 }
 
 .line-span {
-    text-align: end;
-    margin-left: 465px;
+    margin-left: 435px;
     background-color: #FFAE00;
     color: white; 
-    margin-top: -10px;
+    font-size: 14px;
+    font-family: Raleway,AdobeInvisFont,MyriadPro-Regular;
 }
 
 .hr {
