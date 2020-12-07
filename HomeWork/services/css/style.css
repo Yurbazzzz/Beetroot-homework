@@ -51,23 +51,19 @@
     margin-top: -15px;
 }
 
-.img1:hover {
-
-}
-
 .img1-2 {
-    margin-top: -150px;
+    margin-top: -100px;
     margin-left: 0px;
 }
 
 .img1-2:hover {
-    margin-top: -200px;
+    margin-top: -250px;
     margin-left: 0px;
 }
 
 .img2 {
-    margin-top: -30px;
-    margin-left: -18px;
+    margin-top: -10px;
+    margin-left: -1px;
 }
 
 .img2-2 {
@@ -81,18 +77,24 @@
 }
 
 .img3 {
-    margin-top: -30px;
-    margin-left: -18px;
+    margin-top: -20px;
+    margin-left: -3px;
+}
+
+.img3:hover {
+    margin-top: -20px;
+    margin-left: -3px;
+    visibility: hidden;
 }
 
 .img3-2 {
-    margin-top: -200px;
+    margin-top: -100px;
     margin-left: -18px;
    
 }
 
 .img3-2:hover {
-    margin-top: -150px;
+    margin-top: -200px;
     margin-left: 0px;
 }
 
