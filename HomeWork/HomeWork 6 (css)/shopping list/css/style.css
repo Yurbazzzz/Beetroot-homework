@@ -145,7 +145,3 @@ button:hover {
 li:active {      
     background-color: red;
 }
-
-li::before ~ input {
-    content: Nice;
-}
