@@ -145,3 +145,7 @@ button:hover {
 li:active {      
     background-color: red;
 }
+
+input:checked+label {
+    text-decoration: line-through;
+}
