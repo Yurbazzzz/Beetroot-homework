@@ -65,8 +65,8 @@ ul {
 }
 
 .li2:hover {
-    width: 30%;
-    height: 10%;
+    width: 10%;
+    height: 30%;
     border-style: solid;
     padding-left: 5%;
     background-color: #3399CC;
@@ -88,7 +88,7 @@ ul {
 }
 
 .li3:hover {
-    width: 30%;
+    width: 10%;
     height: 10%;
     border-style: solid;
     padding-left: 5%;
@@ -110,7 +110,7 @@ ul {
 }
 
 .li4:hover {
-    width: 30%;
+    width: 10%;
     height: 10%;
     border-style: solid;
     padding-left: 5%;
@@ -133,7 +133,7 @@ ul {
 }
 
 .li5:hover {
-    width: 30%;
+    width: 10%;
     height: 10%;
     border-style: solid;
     padding-left: 5%;
@@ -156,7 +156,7 @@ ul {
 }
 
 .li6:hover {
-    width: 30%;
+    width: 10%;
     height: 10%;
     border-style: solid;
     padding-left: 5%;
@@ -179,7 +179,7 @@ ul {
 }
 
 .li7:hover {
-    width: 30%;
+    width: 10%;
     height: 10%;
     border-style: solid;
     padding-left: 5%;
@@ -200,7 +200,7 @@ ul {
 }
 
 .li8:hover {
-    width: 30%;
+    width: 10%;
     height: 10%;
     border-style: solid;
     padding-left: 5%;
@@ -223,7 +223,7 @@ ul {
 }
 
 .li9:hover {
-    width: 30%;
+    width: 40%;
     height: 10%;
     border-style: solid;
     padding-left: 5%;
@@ -237,7 +237,7 @@ ul {
     background-color: #339966;
     border-style: solid;
     border-width: 5px;
-    height: 41px;
+    height: 10%;
     width: 10%;
     padding: 2%;
     padding-left: 5%;
@@ -246,7 +246,7 @@ ul {
 }
 
 .li10:hover {
-    width: 30%;
+    width: 10%;
     height: 10%;
     border-style: solid;
     padding-left: 5%;
@@ -268,7 +268,7 @@ ul {
 }
 
 .li11:hover {
-    width: 30%;
+    width: 64%;
     height: 10%;
     border-style: solid;
     padding-left: 5%;
