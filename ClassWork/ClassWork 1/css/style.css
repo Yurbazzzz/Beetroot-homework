@@ -1,0 +1,123 @@
+header {
+    margin-top: 30px;
+    margin-left: 300px;
+}
+
+.p-header {
+    color: #898F99;
+    font-size: 12;
+    font-family: Montserrat-Bold,AdobeInvisFont,MyriadHebrew-Regular;
+    padding-left: 300px;
+}
+
+.h1 {
+    color: #0EC8CB;
+    font-size: 48px;
+    font-family: Montserrat-Regular,AdobeInvisFont,MyriadHebrew-Regular;
+    padding-left: 150px;
+}
+
+.div-span {
+    margin-left: 130px;
+}
+.span-header {
+    color: #999999;
+    font-family: PTSans-Regular,AdobeInvisFont,MyriadHebrew-Regular;
+    font-size: 18px;
+    padding-left: 30px;
+}
+
+
+main {
+    display: flex;
+    margin-top: 100px;
+    margin-left: 140px;
+}
+
+.container:hover .span-main {
+    color: white;
+}
+
+.p-main1 {
+    color: #1B1B1B;
+    font-family: Montserrat-Regular,AdobeInvisFont,MyriadHebrew-Regular;
+    font-size: 21;
+    margin: 10px;
+    margin-bottom: 20px;
+}
+.container:hover .p-main1 {
+    color: white;
+}
+
+
+.p-main2 {
+    color: #1B1B1B;
+    font-family: Montserrat-Regular,AdobeInvisFont,MyriadHebrew-Regular;
+    font-size: 21;
+    margin: 10px;
+    margin-bottom: 20px;
+    margin-top: 15px;
+}
+.container:hover .p-main2 {
+    color: white;
+}
+
+.p-main3 {
+    color: #1B1B1B;
+    font-family: Montserrat-Regular,AdobeInvisFont,MyriadHebrew-Regular;
+    font-size: 21;
+    margin: 10px;
+    margin-bottom: 20px;
+    margin-top: 30px;
+}
+.container:hover .p-main3 {
+    color: white;
+}
+
+.p-main4 {
+    color: #1B1B1B;
+    font-family: Montserrat-Regular,AdobeInvisFont,MyriadHebrew-Regular;
+    font-size: 21;
+    margin: 10px;
+    margin-bottom: 20px;
+    margin-top: 30px;
+}
+.container:hover .p-main4 {
+    color: white;
+}
+
+.span-main {
+    color: #777777;
+    font-family: PTSans-Regular,AdobeInvisFont,MyriadHebrew-Regular;
+    font-size: 14px;
+}
+
+.container {
+    width: 240px;
+    height: 420px;
+    padding: 10px;
+    padding-top: 30px;
+    text-align: center;
+    background-color: #F7F7F7;
+    margin: 10px;
+}
+.container:hover {
+    width: 240px;
+    height: 420px;
+    padding: 10px;
+    padding-top: 30px;
+    text-align: center;
+    background-color: #0EC8CB;
+    margin: 10px;
+}
+
+.container .imgHov {
+    display: none;
+}
+.container:hover .imgHov {
+    display: block;
+    padding-left: 90px;
+}
+.container:hover .imgDef {
+    display: none;
+}
