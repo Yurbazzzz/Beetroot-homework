@@ -1,0 +1,25 @@
+* { margin: 0px; }
+body {
+    width: 1600px;
+    height: 1200px;
+}
+
+header {
+    display: flex;
+    margin-left: 1000px;
+}
+
+.header-block {
+    background-color: black;
+    width: 880px;
+    height: 190px;
+    
+}
+
+.header-img {
+    background-color:  #fbc02d;
+}
+.img1 {
+    width: 20px;
+    height: 20px;
+}
