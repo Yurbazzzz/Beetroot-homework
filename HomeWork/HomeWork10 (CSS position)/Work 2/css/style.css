@@ -1,0 +1,94 @@
+* {margin: 0px;}
+
+main {
+    width: 1170px;
+    height: 736px;
+    margin-left: 216px;
+    margin-right: 216px;
+}
+
+h1 {
+    width: 270px;
+    height: 26px;
+    font-family: Lato;
+    font-size: 34px;
+    font-weight: bold;
+    text-align: center;
+    color: #3c3c3c;
+    margin-top: 108px;
+    margin-left: 452px;
+}
+.line {
+    width: 45px;
+    height: 4px;
+    background-color: #dddbdb;
+    margin-top: 20px;
+    margin-left: 565px;
+}
+.main-p-1 {
+    width: 561px;
+    height: 39px;
+    font-family: Lato;
+    font-size: 16px;
+    font-weight: 300;
+    line-height: 1.5;
+    letter-spacing: normal;
+    text-align: center;
+    color: #3c3c3c;
+    margin-top: 40px;
+    margin-left: 305px;
+}
+
+
+.main-div {
+    display: flex;
+    margin-top: 60px;
+    
+}
+.card-1 {
+    margin-right: 30px;
+}
+.card-2 {
+    margin-right: 30px;
+}
+.card-3 {
+    margin-right: 30px;
+}
+.main-p-2  {
+    width: 113px;
+    height: 35px;
+    color: #282528;
+    font-weight: bold;
+    font-family: Lato;
+}
+
+.img-hover-block {
+    margin-left: 80px;
+    margin-top: -150px;
+    margin-bottom: 120px;
+}
+
+
+.img-block {
+    background-color: #00aed9;
+    height: 270px;
+    width: 270px;
+}
+.img-block .img:hover {
+    display: none;
+}
+.card-1 .img-hover-block {
+    opacity: 0;
+}
+.card-2 .img-hover-block {
+    opacity: 0;
+}
+.card-3 .img-hover-block {
+    opacity: 0;
+}
+.card-4 .img-hover-block {
+    opacity: 0;
+}
+.img-hover-block:hover {
+    opacity: 1;
+}
