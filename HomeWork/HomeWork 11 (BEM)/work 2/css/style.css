@@ -1,0 +1,174 @@
+* {margin: 0px;}
+body {position: fixed;}
+
+p{
+    font-family: MuseoModerno;
+    font-weight: 100;
+    color: #4F5560;
+    font-size: 14px;
+    margin-bottom: 10px;
+}
+
+h1 {
+    font-family: MuseoModerno;
+    font-weight: 300;
+    color: white;
+    font-size: 24px;
+    margin-bottom: 15px;
+}
+
+
+main {
+    background-image: url(../img/background.jpg);
+    width: 800px;
+    height: 600px;
+    position: fixed;
+}
+.card {
+    width: 690px;
+    height: 400px;
+    background-color: #111a28;
+    margin-left: 55px;
+    margin-top: 100px;
+    border-radius: 10px;
+    position: fixed;
+    display: flex;
+
+}
+.card:hover {
+    box-shadow: 0 0 30px rgba(0,0,0,0.5);
+}
+
+.logo {
+    margin-left: 22px;
+    margin-top: 25px;
+}
+.sneaker {
+    margin-top: 69px;
+    margin-left: 40px;
+}
+.color {
+    margin-top: 72px;
+    display: flex;
+}
+
+.radio1 {
+    width: 10px;
+    height: 10px;
+    background-color: #1F273F;
+    border-radius: 50%;
+    margin-left: 180px;
+    margin-right: 10px;
+}
+.radio1:hover {
+    width: 13px;
+    height: 13px;
+    border: 5px;
+    border-color: #FFFFFF;
+    border-style: solid;
+    margin-left: 175px;
+    margin-top: -5px;
+    margin-right: 2px;
+}
+
+
+.radio2 {
+    width: 10px;
+    height: 10px;
+    background-color: white;
+    border-radius: 50%;
+    margin-right: 10px;
+}
+.radio2:hover {
+    width: 13px;
+    height: 13px;
+    border: 5px;
+    border-color: #FFFFFF;
+    border-style: solid;
+    margin-left: -7px;
+    margin-top: -5px;
+    margin-right: 4px;
+}
+
+
+.radio3 {
+    width: 10px;
+    height: 10px;
+    background-color: #ED3333;
+    border-radius: 50%;
+    margin-right: 10px;
+}
+.radio3:hover {
+    width: 13px;
+    height: 13px;
+    border: 5px;
+    border-color: #FFFFFF;
+    border-style: solid;
+    margin-left: -7px;
+    margin-top: -5px;
+    margin-right: 4px;
+}
+
+
+.radio4 {
+    width: 10px;
+    height: 10px;
+    background-color: #29E3EA;
+    border-radius: 50%;
+}
+.radio4:hover {
+    width: 13px;
+    height: 13px;
+    border: 5px;
+    border-color: #FFFFFF;
+    border-style: solid;
+    margin-left: -5px;
+    margin-top: -5px;
+    margin-right: 2px;
+}
+
+
+.buy-info {
+    margin-top: 80px;
+    margin-right: 87px;
+    width: 185px;
+    margin-top: -1px;
+    padding-top: 70px;
+    padding-left: 80px;
+}
+.buy-info-star {
+    margin-bottom: 10px;
+}
+.buy-info-buy {
+    display: flex;
+}
+.roll {
+    display: flex;
+    width: 70px;
+    height: 25px;
+    margin-right: 2px;
+    border: #4F5560;
+    border-style: solid;
+    border-width: 2px;
+    padding-top: 3px;
+    padding-left: 3px;
+}
+.roll:hover { border-color: white; }
+.selector {
+    background-color: #111A28;
+    border: #111A28;
+    margin-left: 10px;
+}
+.buy-button {
+    margin-top: 30px;
+    width: 185px;
+    height: 40px;
+    background-color: #202835;  
+    border: solid;
+    border-color: #4F5560;
+    border-width: 1px;
+    color:  #4F5560;
+}
+.buy-button:hover {
+    border-color: white;
+}
