@@ -1,7 +1,135 @@
+* {margin: 0px;}
+
 body {
   font-family: 'Raleway', sans-serif;
   font-weight: 300;
 }
+
+.header {
+  background-image: url(../images/header_bg.png);
+  width: 1500px;
+  height: 1000px;
+  display: flex;
+  padding-left: 50px;
+}
+.logo {
+  width: 127px;
+  height: 52px;
+  margin-top: 50px;
+  margin-left: 165px;
+}
+.nav {
+  margin-top: 57px;
+  margin-left: 450px;
+  margin-right: 160px;
+  width: 557px;
+  height: 12px;
+  font-family: Raleway;
+  font-size: 16px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  
+  
+}
+.a__tittle {
+  margin-right: 20px;
+  text-decoration: none;
+  color: #262626;
+}
+.a__tittle:hover {
+  color: #262626;
+  border-top: #ff6033 solid 3px;
+}
+
+.header__content {
+  margin-top: -650px;
+  margin-left: 130px;
+}
+
+.header__content--h1 {
+  width: 287px;
+  height: 46px;
+  font-family: Raleway;
+  font-size: 60px;
+  font-weight: 900;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 0.42;
+  letter-spacing: normal;
+  text-align: left;
+  color: #262626;
+}
+
+.header__content--p {
+  width: 368px;
+  height: 70px;
+  font-family: Raleway;
+  font-size: 17px;
+  font-weight: 300;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.59;
+  letter-spacing: normal;
+  text-align: left;
+  color: #262626;
+}
+
+.header__button {
+  width: 200px;
+  height: 55px;
+  margin: 31px 373px 295px 1px;
+  padding-left: 40px;
+  box-shadow: 0px 2px 5px 0 rgba(0, 0, 0, 0.5);
+  background-color: #ff6033;
+  font-style: normal;
+  line-height: 1.35;
+  letter-spacing: normal;
+  text-align: left;
+  color: #ffffff;
+}
+.header__button:hover { box-shadow: 0px 4px 10px 0 rgba(0, 0, 0, 0.5); }
+
+
+.aboutUs {
+  height: 700px;
+  background-color: #00c4c4;
+  display: flex;
+}
+
+.aboutUs__img--img {
+  width: 566px;
+  height: 559px;
+  margin-top: 70px;
+  margin-left: 105px;
+  margin-bottom: 70px;
+}
+.aboutUs--content__h1 {
+  width: 394px;
+  height: 67px;
+  font-family: Raleway;
+  font-size: 80px;
+  font-weight: bold;
+  color: #ffffff;
+  margin-top: 150px;
+  margin-left: 94px;
+  margin-bottom: 34px;
+  text-align: start;
+}
+.aboutUs--content__p {
+  width: 499px;
+  height: 188px;
+  font-family: Raleway;
+  font-size: 17px;
+  font-weight: 300;
+  color: #ffffff;
+  margin-left: 94px;
+}
+
+
+
+
+
 
 .blog {
   padding: 100px 0 120px;
@@ -92,7 +220,7 @@ body {
   left: -60px;
 }
 
-button {
+.button--blog {
   width: 200px;
   height: 55px;
   margin: 50px 115px 0;
