@@ -1,0 +1,241 @@
+* {margin: 0px;}
+body {
+    width: 1980px;
+    height: 998px;
+}
+
+
+
+.Top_container__subtitle {
+    font-size: 18px;
+    letter-spacing: 0px;
+    line-height: 24px;
+    color: #898f8f;
+    font-weight: 500;
+    font-family: "Raleway";
+    text-align: center;
+    margin-top: 110px;
+}
+.Top_container__title {
+    font-size: 60px;
+    line-height: 66px;
+    color: #ffcc00;
+    font-weight: 900;
+    font-family: "Roboto";
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 45px;
+ 
+}
+.logo__container {
+    display: flex;
+}
+.logo {
+    width: 18px;
+    height: 19px;
+    margin-left: 980px;
+    position: relative;
+    margin-bottom: 46px;
+}
+.line {
+    content: '';
+    width: 210px;
+    height: 1px;
+    background-color: #ffcc00;
+    position: absolute;
+    margin-top: 10px;
+    margin-left: 760px;
+}
+.line2 {
+    content: '';
+    width: 210px;
+    height: 1px;
+    background-color: #ffcc00;
+    position: absolute;
+    margin-top: 10px;
+    margin-left: 1010px;
+}
+
+
+
+.content__container {
+    display: flex;
+}
+.arrow {
+    width: 12px;
+    height: 12px;
+    border-top: 2px solid  #ffcc00;
+    border-left: 2px solid  #ffcc00;
+    
+}
+.arrow--left {
+    transform: rotate(-45deg);
+    margin-left: 400px;
+    margin-top: 280px;
+    margin-right: 42px;
+}
+.content__photo {
+    margin-top: 70px;
+}
+.content__img {
+    width: 386px;
+    height: 386px;
+    margin-top: 0px;
+    margin-left: 0px;
+    border: 1px solid #ffcc00;
+    margin-top: -392px;
+    margin-left: 6px;
+    position: absolute;
+}
+
+.content__line {
+    width: 1px;
+    height: 560px;
+    background-color: #ffcc00;
+    margin-left: 533px;
+    margin-right: 83px;
+}
+
+
+
+.content__block__title {
+    font-size: 36px;
+    letter-spacing: 1px;
+    line-height: 24px;
+    color: #666666;
+    font-weight: 900;
+    font-family: "Roboto";
+    text-align: center; 
+    margin-top: 95px;
+}
+.separator {
+    width: 100px;
+    height: 1px;
+    background-color: #ffcc00;
+    margin-top: 35px;
+    margin-left: 155px;
+}
+.content__block__subtitle {
+    font-size: 24px;
+    line-height: 36px;
+    color: #666666;
+    font-weight: 400;
+    font-family: "Raleway";
+    text-align: center;
+    margin-top: 32px;
+}
+.icon {
+    margin-top: 35px;
+    margin-left: 130px;
+    margin-bottom: 35px;
+}
+.content__text {
+    width: 420px;
+    height: 121px;
+    font-size: 14px;
+    line-height: 24px;
+    color: #333333;
+    font-weight: 500;
+    font-family: "Raleway";
+    text-align: center;
+}
+.boxes {
+    display: flex;
+    margin-top: 25px;
+    margin-left: 155px;
+    margin-bottom: 30px;
+}
+.content__block__shortline {
+    width: 10px;
+    height: 1px;
+    border: 1px solid #ffcc00;
+    background-color: #ffcc00;
+    margin: 5px;
+}
+.content__block__largeline {
+    width: 20px;
+    height: 1px;
+    background-color: #ffcc00;
+    border: 1px solid #ffcc00;
+    margin: 5px;
+}
+button {
+    width: 120px;
+    height: 24px;
+    background-color: white;
+    border: 1px solid #ffcc00;
+    margin-left: 140px;
+}
+.button__title {
+    font-size: 14px;
+
+    color: #666666;
+    font-weight: 700;
+    font-family: "Open Sans";
+    text-align: center;
+}
+.arrow--right {
+    transform: rotate(135deg);
+    margin-top: 280px;
+    margin-left: 40px;
+}
+
+
+
+.pagination {
+    display: flex;
+    margin-left: 940px;
+    margin-top: 40px;
+}
+.circle {
+    width: 10px;
+    height: 10px;
+    margin: 10px;
+}
+.circle__noactive {
+    background-color: #ffcc00;
+    border-radius: 5px;
+    border: 1px solid #ffcc00;
+}
+.circle__active {
+    background-color: white;
+    border-radius: 5px;
+    border: 1px solid #ffcc00;
+}
+
+
+
+.angel__block {
+    width: 400px;
+    height: 400px;
+    display: inline;
+    position: absolute;
+}
+.border__img {
+    width: 400px;
+    height: 100px;
+    display: flex;
+
+}
+.angle {
+    width: 100px;
+    height: 100px;
+}
+
+
+.border__left--top {
+    border-left: 4px solid #ffcc00;
+    border-top: 4px solid #ffcc00;;
+}
+.border__right--top {
+    border-right: 4px solid #ffcc00;
+    border-top: 4px solid #ffcc00;;
+}
+.border__left--bottom {
+    border-left: 4px solid #ffcc00;
+    border-bottom: 4px solid #ffcc00;;
+}
+.border__right--bottom {
+    border-right: 4px solid #ffcc00;
+    border-bottom: 4px solid #ffcc00;;
+}
