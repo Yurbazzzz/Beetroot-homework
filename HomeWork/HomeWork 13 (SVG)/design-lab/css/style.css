@@ -534,7 +534,7 @@ main {
         text-align: center;
     }
     .Header__container {
-        width: 375px;
+        width: 100%;
         height: 600px;
         padding-top: 0%;
         padding-left: 66%;
