@@ -1,16 +1,8 @@
-// let num = +prompt("Enter 2 number");
-// let sum = 0;
+const num1 = +prompt('Enter first number');
+const num2 = +prompt('Enter end number');
+let result = 0;
 
-// for (let i = 0; i < 3; i++) {
-//     sum = num + num;
-// }
-// alert(sum);
-
-var num = prompt("Enter 3 number");
-var sum = 0;
-
-for (var i = 0; i <= 3; i++) {
-    sum += num;
-
+for (let i = num1; i < num2; i++) {
+    result += i;
 }
-alert(sum)
+alert(result)
