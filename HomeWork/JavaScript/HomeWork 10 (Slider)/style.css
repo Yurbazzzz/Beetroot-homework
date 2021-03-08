@@ -1,0 +1,59 @@
+.title {
+    font-size: 86px;
+    line-height: 90px;
+    color: #000000;
+    font-family: "Poppins";
+    text-align: center;
+}
+
+.subtitle {
+    font-size: 18px;
+    letter-spacing: 4px;
+    line-height: 19px;
+    color: #303030;
+    font-weight: 600;
+    font-family: "Poppins";
+    text-align: center;
+}
+
+
+.multiple-items {
+    width: 80%;
+    margin-top: 50px;
+}
+
+.card {
+    width: 30%;
+    height: 200px;
+    margin: 30px;
+}
+
+.img-block {
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+}
+
+
+
+.slick-next {
+    width: 50px;
+    height: 50px;
+    border: 2px solid  #000000;
+    border-radius: 50%;
+    background: none;
+}
+.slick-prev  {
+    width: 50px;
+    height: 50px;
+    border: 2px solid  #000000;
+    border-radius: 50%;
+    background: none;
+}
+
+.btn {
+    margin: 10%;
+    margin-top: 100%;
+    outline: none;
+
+} 
